@@ -4,12 +4,19 @@ The local school board has notified the business of potential academic dishonest
 
 ## Results
 Upon initial review of the data it was identified that Thomas High School (THS) scores for the 9th graders appeared to have been altered.  The percentages of the student population which was passing for THS was well below the average and did not reflect that the average scores for this school in both reading and math had been above 70%.
+![image1](/School_Sum1.png)
+
 As such the resolution was to NaN out the scores for the affected population and re-review the data.
+
+![image2](/student_evidence1.png)
+
 Once the affected grouping of students had been removed from the scores we saw the percentages of the THS students passing in math, reading, and overall increased significantly.
 
 - The percentage passing in math increased to 93.19% from 66.91%
 - The percentage passing in reading increased to 97.02% from 69.66%
 - The percentage passing in both increased to 90.63% from 65.08%
+
+![image3](/school_sum2.png)
 
 This moved THS from being ranked as one of the worst schools in the district when compared by percentage of overall passing to the second best school in the district.
 
